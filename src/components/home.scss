@@ -1,0 +1,29 @@
+.homediv{
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(180deg,#0f0011, #2F0235);
+}
+
+.buttons{
+  border: solid 2px;
+  border-radius: 100px;
+  border-color: #750D37;
+  padding-right: 28px;
+  padding-left: 28px;
+  font-size: 16px;
+  color: #DBF9F0;
+}
+
+.mynameis{
+  color:#750D37;
+}
+
+.slidingtext{
+  position: absolute;
+  font-size: 50vh;
+  bottom:20%;
+  white-space: nowrap;
+  color: rgba(0, 0, 0, 0.03);
+  width: 50%;
+  font-weight: bold;
+}
